@@ -11,5 +11,5 @@ pip install notebook
 ## Usage
 
 ```bash
-jupyter notebook iris.ipyn
+jupyter notebook Iris.ipyn
 ```
